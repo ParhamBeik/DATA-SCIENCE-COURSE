@@ -1,0 +1,4 @@
+# Ignore large datasets
+Regression-Project/TrainAndValid.csv
+Regression-Project/Train.csv
+Regression-Project/bluebook-for-bulldozers/train_tmp.csv
